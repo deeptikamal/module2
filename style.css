@@ -4,5 +4,6 @@
 }
 .row > div{
 	border: 2px solic red;
-	background-color: sky blue;
+	background-color: gray
+		;
 }
