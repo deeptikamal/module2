@@ -6,7 +6,7 @@
 	border: 2px solic red;
 	background-color: gray;
 }
-.quote{
+.quote>div{
 	position: relative;
 	border:2px solid #34345d;
 	overflow: hidden;
