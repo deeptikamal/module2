@@ -3,7 +3,14 @@
 
 }
 .row > div{
-	border: 2px solid red;
-	background-color: gray
-		;
+	border: 2px solic red;
+	background-color: gray;
+}
+.quote{
+	position: relative;
+	border:2px solid #34345d;
+	overflow: hidden;
+	width: 200px;
+	height: 200px;
+	margin:2px auto black;
 }
